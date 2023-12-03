@@ -1,6 +1,6 @@
 # typescript-practice
 
-# 00. Introduction
+# 00. Typescript 101
 
 * Typescript internally uses Javascript
 * Typescript code can be compiled as Javascript code using tsc (TypeScript Compiler)
