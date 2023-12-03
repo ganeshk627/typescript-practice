@@ -8,7 +8,6 @@
 
 Here's a side-by-side comparison of JavaScript and TypeScript in a table format:
 
---- | --- | --- 
 Feature | JavaScript | TypeScript
 --- | --- | --- 
 Type System	| Dynamically typed (types determined at runtime) | Statically typed (types defined at compile-time)
@@ -29,7 +28,6 @@ Keep in mind that the choice between JavaScript and TypeScript should be based o
 
 Certainly, here's a comparison of code-level changes between JavaScript and TypeScript in a table format:
 
---- | --- | --- 
 Aspect | JavaScript | TypeScript
 --- | --- | --- 
 Variable Declaration | javascript let x = 5; | typescript let x: number = 5;
