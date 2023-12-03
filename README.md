@@ -71,11 +71,19 @@ https://www.typescriptlang.org/download
 # 02. Writing Typescript codes
 naming convention: *.ts
 
+    touch first_script.ts
+
+first_script.ts
+
     console.log('This is my first typescript code!!!')
 
 # 03. Compiling and Running Typescript file
 .ts -> tsc(TS compiler) - js - JavaScript RunTime Env: Browser, NodeJS, App
 
-    tsc filename.ts
+    tsc first_script.ts
 
-#### Note:- filename.js will be created
+#### Note:- first_script.js will be created
+
+    node first_script.js
+
+#### Note:- codes will be executed now
