@@ -7,7 +7,8 @@
 
 Here's a side-by-side comparison of JavaScript and TypeScript in a table format:
 
-Feature	JavaScript	TypeScript
+Feature | #JavaScript | #TypeScript
+--- | --- | --- 
 Type System	Dynamically typed (types determined at runtime)	Statically typed (types defined at compile-time)
 Type Annotations	No explicit type annotations	Type annotations for variables and functions
 Tooling Support	Limited tooling support	Rich tooling support with code completion, static analysis, etc.
@@ -20,9 +21,8 @@ Learning Curve	Relatively straightforward to learn	Has a learning curve, especia
 Language Features	Supports latest ECMAScript (ES) features and syntax	Supports the same ES features while adding type-related features
 Keep in mind that the choice between JavaScript and TypeScript should be based on the specific needs of your project, your team's familiarity and preferences, and the trade-offs associated with each language.
 
-User
-give me comparison of code level changes in table of javascript vs typescript
-ChatGPT
+
+
 Certainly, here's a comparison of code-level changes between JavaScript and TypeScript in a table format:
 
 Aspect	JavaScript	TypeScript
