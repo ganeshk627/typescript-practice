@@ -7,10 +7,10 @@
 
 Here's a side-by-side comparison of JavaScript and TypeScript in a table format:
 
-Feature | #JavaScript | #TypeScript
+Feature | JavaScript | TypeScript
 --- | --- | --- 
 Type System	| Dynamically typed (types determined at runtime) | Statically typed (types defined at compile-time)
-Type Annotations	No explicit type annotations	Type annotations for variables and functions
+Type Annotations | No explicit type annotations|Type annotations for variables and functions
 Tooling Support	Limited tooling support	Rich tooling support with code completion, static analysis, etc.
 Code Readability	May be less self-documenting due to lack of type annotations	More self-documenting with type annotations
 Refactoring	Riskier due to lack of type safety	Safer and more straightforward due to type system
