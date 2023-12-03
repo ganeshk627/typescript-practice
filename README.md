@@ -75,10 +75,10 @@ naming convention: *.ts
 
 first_script.ts
 
-    console.log('This is my first typescript code!!!')
+    console.log("Hello Harry!!!")
+
 
 # 03. Compiling and Running Typescript file
-.ts -> tsc(TS compiler) - js - JavaScript RunTime Env: Browser, NodeJS, App
 
     tsc first_script.ts
 
